@@ -24,7 +24,7 @@ googlemapurl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.238679
 precons: false
 precondetail:
 
-scheduleurl: 
+scheduleurl: https://sessionize.com/api/v2/fe5dplw1/view/GridSmart
 scheduletimezone: British Summer Time UTC +1
 schedulehtml: <script type="text/javascript" src="https://sessionize.com/api/v2/fe5dplw1/view/GridSmart"></script>
 
