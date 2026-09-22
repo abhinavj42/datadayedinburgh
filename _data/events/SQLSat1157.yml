@@ -28,12 +28,12 @@ scheduleurl: https://sessionize.com/api/v2/fe5dplw1/view/GridSmart
 scheduletimezone: British Summer Time UTC +1
 schedulehtml: 
 
-eventcountdown: false
+eventcountdown: true
 
 countdownscript:
  
 speakertext: 
-speakerlisturl: 
+speakerlisturl: https://sessionize.com/api/v2/fe5dplw1/view/SpeakerWall
 callforspeakersurl: https://sessionize.com/data-day-edinburgh-2026/
 callforspeakers:  true
 callforspeakersenddate: 12 Jul 2026
@@ -55,7 +55,7 @@ volunteers:
 social:
   twitter: 
   youtube: 
-  linkedin: 
+  linkedin: https://www.linkedin.com/company/data-day-edinburgh-2026
   instagram: 
   tiktok: 
   pinterest: 
