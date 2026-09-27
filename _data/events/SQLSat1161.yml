@@ -136,7 +136,10 @@ sponsors:
     width: 800    
   - link: https://www.travelandleisure.com/
     image: /assets/img/logos/travel-and-leisure-856x484.jpg
-    width: 800    
+    width: 800
+  - link: https://www.pathfinderdatastrategy.com/
+    image: /assets/img/logos/gold/Pathfinder.png
+    width: 800        
   - link:  https://www.oreilly.com
     type: In-Kind
     image: /assets/img/logos/OReilly_Logo.png
