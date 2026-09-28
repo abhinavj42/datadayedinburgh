@@ -90,14 +90,14 @@ precondetail: |
     <p>Reserve your spot and learn how to build modern, AI‑powered applications using T‑SQL and the SQL Server engine — enabling intelligent retrieval, RAG‑based experiences, and secure AI integration without sacrificing control or trust.</p>
     <p></p>
     <h3>Speakers:</h3>
-    <p><b>Abdullah Mamun</b></p>
-    <br><img src="/assets/img/team/AbdullahMamun.png" border="0"><br>
-    <p>Program Manager at Microsoft SQL Server</p>
+    <b>Abdullah Mamun</b><br>
+    <img src="/assets/img/team/AbdullahMamun.png" border="0" width="200"><br>
+    Program Manager at Microsoft SQL Server<br>
     <p>Abdullah Mamun is a program manager at Microsoft with a deep expertise in the SQL Server engine space. With more than 20 years of experience in the field, Mamun has established himself as a leading authority on SQL Server features and troubleshooting. In his role at Microsoft, Mamun is responsible for overseeing the development of key SQL Server features and ensuring that they meet the needs of broad SQL Server customer base. Abdullah is also a well-respected speaker in the SQL Server community, having presented at numerous industry events such as Live 360, SQL Saturdays.</p>
      <p></p>
-    <p><b>David Pless</b></p>
-    <br><img src="/assets/img/team/DavidPless.png" border="0"><br>
-    <p>Principal Program Manager - Microsoft Corporation</p>
+    <b>David Pless</b><br>
+    <img src="/assets/img/team/DavidPless.png" border="0" width="200"><br>
+    Principal Program Manager - Microsoft Corporation
     <p>David Pless is a Principal Program Manager in Azure Data at Microsoft, where he focuses on SQL Server on Azure, storage engine, performance engineering, storage architecture, and Azure Arc. With nearly three decades of experience in the data platform industry and almost twenty years at Microsoft, David has worked across consulting, support, technical sales, and product engineering roles.</p>
     <p>A Microsoft Certified Master (MCM), David specializes in SQL Server performance tuning, high availability and disaster recovery, Azure SQL, and cloud modernization. He is a frequent speaker at SQL Saturdays, Microsoft events, industry conferences, and user groups, where he shares practical lessons learned from helping customers run and optimize mission-critical SQL Server workloads at scale.</p>
     <p></p>
