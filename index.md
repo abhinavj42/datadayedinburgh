@@ -57,7 +57,8 @@ These are the Day of Data events that are currently scheduled. If you would like
 ## <a name="reserved"></a>Reserved Dates
 
 The following dates are tentative for these cities, but they have asked to reserve the date.
-- Dec 5, 2026 - Houston
+- Mar 6, 2027 - Atlanta
+- Mar 13, 2027 - Atlanta (alternate)
 
 Please contact the local organizers for these areas if you have questions or concerns.
 
