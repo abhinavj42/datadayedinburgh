@@ -72,6 +72,10 @@ social:
 sponsorscontacturl: 
 optInGlobalSponsor: 1
 sponsors:
+  - link: http://kovoco.net
+    type: Gold
+    image: "/assets/img/logos/kovoco-horizontal.jpg"
+    width: 800
   - link: https://www.sqlgene.com/
     type: Silver
     image: /assets/img/logos/SQLGeneLogo-6.png
